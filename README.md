@@ -1,0 +1,1 @@
+# EKC_curve_validity
