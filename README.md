@@ -1,4 +1,4 @@
-# EKC_curve_validity
+# EKC_curve_validity (pending updates)
 
 
 1. Literature Review
