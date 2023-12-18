@@ -1,4 +1,4 @@
-# Project Title: [Your Project Name]
+# Project Title: Testing the Validity of the Environmental Kuznets Curve Hypothesis: Panel Data and Instrumental Variable Approach
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/[YourGitHubUsername]/[YourRepoName])
 ![Language count](https://img.shields.io/github/languages/count/[YourGitHubUsername]/[YourRepoName])
